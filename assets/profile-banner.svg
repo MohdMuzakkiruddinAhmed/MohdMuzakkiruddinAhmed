@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Muzakkiruddin Ahmed Mohammed</title>
+  <desc id="desc">Researcher, AI developer and instructor. Entity resolution, data quality and enterprise AI.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101e33"/><stop offset="1" stop-color="#162f42"/></linearGradient>
+  </defs>
+  <rect width="1200" height="310" rx="16" fill="url(#background)"/>
+  <g fill="none" stroke="#426579" stroke-width="1.5" opacity=".65">
+    <path d="M930 63 1070 91 1134 194 980 249 883 158 930 63ZM930 63 980 249M883 158 1070 91M883 158 1134 194M1070 91 980 249"/>
+    <circle cx="930" cy="63" r="8"/><circle cx="1070" cy="91" r="8"/><circle cx="1134" cy="194" r="8"/><circle cx="980" cy="249" r="8"/><circle cx="883" cy="158" r="8"/>
+  </g>
+  <g fill="#57d1c3"><circle cx="930" cy="63" r="4"/><circle cx="1134" cy="194" r="4"/><circle cx="883" cy="158" r="4"/></g>
+  <rect x="55" y="48" width="44" height="4" rx="2" fill="#57d1c3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="55" y="88" fill="#91b7c9" font-size="17" letter-spacing="2.5">RESEARCH · DEVELOPMENT · TEACHING</text>
+    <text x="52" y="150" fill="#f5f8fc" font-size="45" font-weight="700">Muzakkiruddin Ahmed</text>
+    <text x="52" y="201" fill="#f5f8fc" font-size="45" font-weight="700">Mohammed</text>
+    <text x="55" y="258" fill="#bcd5e0" font-size="21">Entity Resolution · Data Quality · Enterprise AI</text>
+  </g>
+</svg>
