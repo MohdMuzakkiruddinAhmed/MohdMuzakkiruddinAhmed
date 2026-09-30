@@ -5,7 +5,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/muzakkiruddin-ahmed-mohammed-540422171/">LinkedIn</a> ·
   <a href="#selected-projects">Projects</a> ·
-  <a href="#research-publication">Publication</a> ·
+  <a href="https://scholar.google.com/citations?user=r8MAktAAAAAJ&amp;hl=en">Google Scholar</a> ·
+  <a href="#selected-publications">Publications</a> ·
   <a href="#teaching--collaboration">Teaching &amp; collaboration</a>
 </p>
 
@@ -21,6 +22,21 @@ I build intelligent data pipelines that connect generative AI with data quality:
 - **Agentic data quality & governance** — validation, adaptive monitoring, analytical dashboards, and enterprise data workflows.
 - **Document AI & enterprise knowledge** — LLMs, vision-language models, AI agents, and retrieval-augmented generation for industrial information.
 
+## Selected publications
+
+My publications cover entity resolution, multi-agent systems, industrial information extraction, and data governance.
+
+| Paper | Venue |
+| :--- | :--- |
+| [Privacy-Preserving Structured Knowledge Extraction from Census-Style Records Using a Hierarchical Multi-Agent Open-Weight LLM Architecture](https://doi.org/10.3390/knowledge6030023) · [Code](https://github.com/MohdMuzakkiruddinAhmed/census-pii-agents) | *Knowledge*, 2026 |
+| [Case count metric for comparative analysis of entity resolution results](https://doi.org/10.3389/fdata.2026.1736939) · [Code](https://github.com/MohdMuzakkiruddinAhmed/CCMS) | *Frontiers in Big Data*, 2026 |
+| [Multilingual Customer Record Linkage: A Novel Approach Using LLMs for Cross-Lingual Entity Resolution](https://doi.org/10.1007/978-3-032-22196-4_29) | Springer, online 2026; volume 2027 |
+| [Multi-Agent RAG Framework for Entity Resolution: Advancing Beyond Single-LLM Approaches with Specialized Agent Coordination](https://doi.org/10.3390/computers14120525) | *Computers*, 2025 |
+| [Retrieval-Augmented Multi-LLM Ensemble for Industrial Part Specification Extraction](https://doi.org/10.1109/KSE68178.2025.11309590) | IEEE KSE, 2025 |
+| [Policy-Aware Generative AI for Safe, Auditable Data Access Governance](https://doi.org/10.1109/KSE68178.2025.11309632) | IEEE KSE, 2025 |
+
+**[View all 16 works and full author lists](https://github.com/MohdMuzakkiruddinAhmed/MohdMuzakkiruddinAhmed/blob/main/PUBLICATIONS.md)** · [BibTeX](https://github.com/MohdMuzakkiruddinAhmed/MohdMuzakkiruddinAhmed/blob/main/publications.bib) · [Google Scholar](https://scholar.google.com/citations?user=r8MAktAAAAAJ&hl=en)
+
 ## Selected projects
 
 | Project | What you can explore |
@@ -33,14 +49,6 @@ I build intelligent data pipelines that connect generative AI with data quality:
 | **[Industrial Catalog Extractor](https://github.com/MohdMuzakkiruddinAhmed/Industrial-Catalog-Extractor)** | A document VLM-to-RAG pipeline with source-grounded product records, citation validation, and an offline demo. |
 
 Each repository documents its scope, setup, and limitations. Research results should be interpreted within the datasets and evaluation conditions reported by the project.
-
-## Research publication
-
-**[Case count metric for comparative analysis of entity resolution results](https://doi.org/10.3389/fdata.2026.1736939)**<br>
-John R. Talburt, Muzakkiruddin Ahmed Mohammed, Mert Can Cakmak, Onais Khan Mohammed, Mahboob Khan Mohammed, Khizer Syed, and Leon Claassens.<br>
-*Frontiers in Big Data*, 9, 2026. [Code: CCMS](https://github.com/MohdMuzakkiruddinAhmed/CCMS)
-
-The work compares entity-resolution clustering outcomes without requiring a ground-truth set, distinguishing unchanged, merged, partitioned, and overlapping clusters.
 
 ## Teaching & collaboration
 
